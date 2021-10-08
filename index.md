@@ -11,9 +11,15 @@ recommendations tailored to customer needs and preferences.
 Working with us will enable you to make smarter decisions, offer your customers an unparalleled engagement, 
 target new customer segments and increase profitability.
 
-[Introduction](https://facilizationai.github.io/intro)
+
+[Introduction to Our AI/ML Services](https://facilizationai.github.io/intro)
+
 [AI/ML Use Cases for Banking and Finance]()
+
+[Example Application]()
+
 [Our Team]()
+
 [Contact Us]()
 
 
